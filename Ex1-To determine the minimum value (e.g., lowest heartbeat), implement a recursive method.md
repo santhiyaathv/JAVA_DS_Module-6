@@ -52,9 +52,3 @@ public class Main {
 ## Result:
 Thus the JAVA program to find the minimum value (e.g., lowest heartbeat), implement a recursive method has implemented successfully.
 
-
-
-
-
-## Result:
-Thus the JAVA prograM ti find the minimum value (e.g., lowest heartbeat), implement a recursive method has implemented successfully
